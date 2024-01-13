@@ -2327,9 +2327,9 @@ StEntry StLabel.hint-text, .popup-menu .search-entry StLabel.hint-text {
   box-shadow: none;
   border: none;
   font-size: 10pt;
-  background-color: transparent; // top bar transparent
-  height: 28px; // top bar transparent
-  margin: 5px 2px; // top bar transparent
+  background-color: transparent;
+  height: 28px;
+  margin: 4px 2px;
 }
 
 #panel .panel-corner {
@@ -2349,9 +2349,9 @@ StEntry StLabel.hint-text, .popup-menu .search-entry StLabel.hint-text {
   transition-duration: 150ms;
   border-radius: 9999px;
   text-shadow: none;
-  border: 2px solid #11111b; // top bar transparent
-  background-color: #11111b; // top bar transparent
-  margin: 0 2px; // top bar transparent
+  border: 2px solid #11111b;
+  background-color: #11111b;
+  margin: 0 2px;
 }
 
 #panel .panel-button.clock-display {
