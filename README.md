@@ -5,11 +5,11 @@
     <img src="https://img.shields.io/github/repo-size/klpod221/gnome-shell?style=for-the-badge&color=a8c7ff&labelColor=1a1b1f">
 </div>
 
-## About
+## 📖 About
 
 This is a theme for Gnome Shell, which is based on the [catppuccin mocha flavor](https://github.com/catppuccin/catppuccin) theme, but with some changes.
 
-## Installation
+## 🚀 Installation
 
 1. Clone the repository:
 
